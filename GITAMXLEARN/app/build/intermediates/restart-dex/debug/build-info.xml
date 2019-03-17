@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="408701130372940"
+    token="3154823358717930464" >
+
+    <task
+        name="javac"
+        duration="892" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1674" />
+    <task
+        name="verifier"
+        duration="595" />
+
+    <artifact
+        location="C:\Users\Manoj\AndroidStudioProjects\GITAMXLEARN\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="408701130372940" >
+        <artifact
+            location="C:\Users\Manoj\AndroidStudioProjects\GITAMXLEARN\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
